@@ -8,3 +8,4 @@ name = gets.strip
 # then given an input which the CLI 'strips' and 'gets'
 # in order for the input to be in the function/method of 'greeting'
  greeting(name)
+# greeting here calls for the method created in the folder lib, which was created to respond with the input
